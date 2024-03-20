@@ -1,24 +1,40 @@
-# travel-map
+# 旅行地图
 
-## Project setup
+## 一、介绍
+旅行地图项目是一个开源项目，结合了城市信息和景区拥挤度数据，利用AntV L7库实现了丰富的功能。以下是项目的主要功能：
+
+- 地图主题切换、导出地图图片、缩放控制
+- 切换图层类型：圆点、柱状和热力图等
+- 过滤景区数据
+- 点击景区站点显示弹窗信息
+- 定位到指定站点并显示弹窗信息
+
+这些功能为用户提供了丰富的交互体验和定制化功能，让用户能够更便捷地规划旅行路线和了解景区情况。
+
+![示例图片](/public/travel-map.png)
+## 二、安装和使用
+### 1、项目安装
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### 2、项目运行
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### 3、生产编译
 ```
 npm run build
 ```
 
-### Lints and fixes files
+### 4、整理和修复文件
 ```
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### 5、自定义配置
+请参阅[配置参考](https://cli.vuejs.org/config/).
+
+## 三、.env配置文件
+VUE_APP_GD_KEY需要设置成自己的高德key。使用高德地图需要添加一个应用,「服务平台」一项请选择「 Web 端 ( JSAPI ) 」
