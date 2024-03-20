@@ -1,0 +1,857 @@
+{
+  "msg": "\u83b7\u53d6\u6210\u529f\uff01",
+  "data": {
+    "A": [],
+    "B": [
+      {
+        "city_name": "\u5317\u4eac",
+        "city_code": "131",
+        "city_center": {
+          "longitude": 116.407171,
+          "latitude": 39.904689
+        }
+      },
+      {
+        "city_name": "\u5305\u5934",
+        "city_code": "229",
+        "city_center": {
+          "longitude": 109.84021,
+          "latitude": 40.657811
+        }
+      },
+      {
+        "city_name": "\u4fdd\u5b9a",
+        "city_code": "307",
+        "city_center": {
+          "longitude": 115.464591,
+          "latitude": 38.873959
+        }
+      }
+    ],
+    "C": [
+      {
+        "city_name": "\u6210\u90fd",
+        "city_code": "75",
+        "city_center": {
+          "longitude": 104.06476,
+          "latitude": 30.570199
+        }
+      },
+      {
+        "city_name": "\u957f\u6c99",
+        "city_code": "158",
+        "city_center": {
+          "longitude": 112.93886,
+          "latitude": 28.227779
+        }
+      },
+      {
+        "city_name": "\u91cd\u5e86",
+        "city_code": "132",
+        "city_center": {
+          "longitude": 106.55073,
+          "latitude": 29.564711
+        }
+      },
+      {
+        "city_name": "\u6ca7\u5dde",
+        "city_code": "149",
+        "city_center": {
+          "longitude": 116.83869,
+          "latitude": 38.304408
+        }
+      },
+      {
+        "city_name": "\u957f\u6625",
+        "city_code": "53",
+        "city_center": {
+          "longitude": 125.32357,
+          "latitude": 43.816022
+        }
+      },
+      {
+        "city_name": "\u5e38\u5dde",
+        "city_code": "348",
+        "city_center": {
+          "longitude": 119.97365,
+          "latitude": 31.81072
+        }
+      }
+    ],
+    "D": [
+      {
+        "city_name": "\u5927\u7406",
+        "city_code": "111",
+        "city_center": {
+          "longitude": 100.26764,
+          "latitude": 25.606479
+        }
+      },
+      {
+        "city_name": "\u4e1c\u839e",
+        "city_code": "119",
+        "city_center": {
+          "longitude": 113.75181,
+          "latitude": 23.020691
+        }
+      },
+      {
+        "city_name": "\u5927\u8fde",
+        "city_code": "167",
+        "city_center": {
+          "longitude": 121.61476,
+          "latitude": 38.913691
+        }
+      },
+      {
+        "city_name": "\u5927\u540c",
+        "city_code": "355",
+        "city_center": {
+          "longitude": 113.30001,
+          "latitude": 40.076369
+        }
+      },
+      {
+        "city_name": "\u5fb7\u5dde",
+        "city_code": "372",
+        "city_center": {
+          "longitude": 116.35927,
+          "latitude": 37.4355
+        }
+      }
+    ],
+    "E": [],
+    "F": [
+      {
+        "city_name": "\u798f\u5dde",
+        "city_code": "300",
+        "city_center": {
+          "longitude": 119.29647,
+          "latitude": 26.07421
+        }
+      },
+      {
+        "city_name": "\u4f5b\u5c71",
+        "city_code": "138",
+        "city_center": {
+          "longitude": 113.12192,
+          "latitude": 23.021849
+        }
+      }
+    ],
+    "G": [
+      {
+        "city_name": "\u5e7f\u5dde",
+        "city_code": "257",
+        "city_center": {
+          "longitude": 113.26436,
+          "latitude": 23.129081
+        }
+      },
+      {
+        "city_name": "\u6842\u6797",
+        "city_code": "142",
+        "city_center": {
+          "longitude": 110.290021,
+          "latitude": 25.273609
+        }
+      },
+      {
+        "city_name": "\u8d35\u9633",
+        "city_code": "146",
+        "city_center": {
+          "longitude": 106.630241,
+          "latitude": 26.64702
+        }
+      },
+      {
+        "city_name": "\u8d63\u5dde",
+        "city_code": "365",
+        "city_center": {
+          "longitude": 114.93476,
+          "latitude": 25.83109
+        }
+      }
+    ],
+    "H": [
+      {
+        "city_name": "\u676d\u5dde",
+        "city_code": "179",
+        "city_center": {
+          "longitude": 120.15515,
+          "latitude": 30.274151
+        }
+      },
+      {
+        "city_name": "\u54c8\u5c14\u6ee8",
+        "city_code": "48",
+        "city_center": {
+          "longitude": 126.5358,
+          "latitude": 45.802159
+        }
+      },
+      {
+        "city_name": "\u90af\u90f8",
+        "city_code": "151",
+        "city_center": {
+          "longitude": 114.53918,
+          "latitude": 36.625559
+        }
+      },
+      {
+        "city_name": "\u5408\u80a5",
+        "city_code": "127",
+        "city_center": {
+          "longitude": 117.22901,
+          "latitude": 31.820571
+        }
+      },
+      {
+        "city_name": "\u60e0\u5dde",
+        "city_code": "301",
+        "city_center": {
+          "longitude": 114.41679,
+          "latitude": 23.11075
+        }
+      },
+      {
+        "city_name": "\u8861\u9633",
+        "city_code": "159",
+        "city_center": {
+          "longitude": 112.57195,
+          "latitude": 26.89324
+        }
+      },
+      {
+        "city_name": "\u8861\u6c34",
+        "city_code": "208",
+        "city_center": {
+          "longitude": 115.670541,
+          "latitude": 37.738861
+        }
+      },
+      {
+        "city_name": "\u547c\u548c\u6d69\u7279",
+        "city_code": "321",
+        "city_center": {
+          "longitude": 111.75199,
+          "latitude": 40.841491
+        }
+      },
+      {
+        "city_name": "\u6e56\u5dde",
+        "city_code": "294",
+        "city_center": {
+          "longitude": 120.08805,
+          "latitude": 30.89305
+        }
+      },
+      {
+        "city_name": "\u6d77\u53e3",
+        "city_code": "125",
+        "city_center": {
+          "longitude": 110.19989,
+          "latitude": 20.04422
+        }
+      },
+      {
+        "city_name": "\u6dee\u5b89",
+        "city_code": "162",
+        "city_center": {
+          "longitude": 119.01595,
+          "latitude": 33.61016
+        }
+      }
+    ],
+    "I": [],
+    "J": [
+      {
+        "city_name": "\u6d4e\u5357",
+        "city_code": "288",
+        "city_center": {
+          "longitude": 116.994931,
+          "latitude": 36.665291
+        }
+      },
+      {
+        "city_name": "\u5609\u5174",
+        "city_code": "334",
+        "city_center": {
+          "longitude": 120.7555,
+          "latitude": 30.745011
+        }
+      },
+      {
+        "city_name": "\u6d4e\u5b81",
+        "city_code": "286",
+        "city_center": {
+          "longitude": 116.587241,
+          "latitude": 35.414589
+        }
+      },
+      {
+        "city_name": "\u91d1\u534e",
+        "city_code": "333",
+        "city_center": {
+          "longitude": 119.64759,
+          "latitude": 29.078119
+        }
+      },
+      {
+        "city_name": "\u6c5f\u95e8",
+        "city_code": "302",
+        "city_center": {
+          "longitude": 113.08161,
+          "latitude": 22.57865
+        }
+      }
+    ],
+    "K": [
+      {
+        "city_name": "\u6606\u660e",
+        "city_code": "104",
+        "city_center": {
+          "longitude": 102.83322,
+          "latitude": 24.87966
+        }
+      }
+    ],
+    "L": [
+      {
+        "city_name": "\u4e50\u5c71",
+        "city_code": "79",
+        "city_center": {
+          "longitude": 103.76539,
+          "latitude": 29.552209
+        }
+      },
+      {
+        "city_name": "\u5170\u5dde",
+        "city_code": "36",
+        "city_center": {
+          "longitude": 103.83417,
+          "latitude": 36.06138
+        }
+      },
+      {
+        "city_name": "\u6d1b\u9633",
+        "city_code": "153",
+        "city_center": {
+          "longitude": 112.45361,
+          "latitude": 34.618119
+        }
+      },
+      {
+        "city_name": "\u4e34\u6c82",
+        "city_code": "234",
+        "city_center": {
+          "longitude": 118.356459,
+          "latitude": 35.104651
+        }
+      },
+      {
+        "city_name": "\u5eca\u574a",
+        "city_code": "191",
+        "city_center": {
+          "longitude": 116.683759,
+          "latitude": 39.537751
+        }
+      },
+      {
+        "city_name": "\u62c9\u8428",
+        "city_code": "100",
+        "city_center": {
+          "longitude": 91.1145,
+          "latitude": 29.644151
+        }
+      },
+      {
+        "city_name": "\u67f3\u5dde",
+        "city_code": "305",
+        "city_center": {
+          "longitude": 109.41552,
+          "latitude": 24.32543
+        }
+      },
+      {
+        "city_name": "\u8fde\u4e91\u6e2f",
+        "city_code": "347",
+        "city_center": {
+          "longitude": 119.22295,
+          "latitude": 34.59669
+        }
+      }
+    ],
+    "M": [
+      {
+        "city_name": "\u7ef5\u9633",
+        "city_code": "240",
+        "city_center": {
+          "longitude": 104.679599,
+          "latitude": 31.467511
+        }
+      },
+      {
+        "city_name": "\u8302\u540d",
+        "city_code": "139",
+        "city_center": {
+          "longitude": 110.92523,
+          "latitude": 21.66329
+        }
+      }
+    ],
+    "N": [
+      {
+        "city_name": "\u5357\u4eac",
+        "city_code": "315",
+        "city_center": {
+          "longitude": 118.796469,
+          "latitude": 32.058381
+        }
+      },
+      {
+        "city_name": "\u5357\u9633",
+        "city_code": "309",
+        "city_center": {
+          "longitude": 112.52851,
+          "latitude": 32.99073
+        }
+      },
+      {
+        "city_name": "\u5b81\u6ce2",
+        "city_code": "180",
+        "city_center": {
+          "longitude": 121.55027,
+          "latitude": 29.873861
+        }
+      },
+      {
+        "city_name": "\u5357\u660c",
+        "city_code": "163",
+        "city_center": {
+          "longitude": 115.857941,
+          "latitude": 28.68202
+        }
+      },
+      {
+        "city_name": "\u5357\u5b81",
+        "city_code": "261",
+        "city_center": {
+          "longitude": 108.3669,
+          "latitude": 22.816729
+        }
+      },
+      {
+        "city_name": "\u5357\u5145",
+        "city_code": "291",
+        "city_center": {
+          "longitude": 106.11073,
+          "latitude": 30.83731
+        }
+      },
+      {
+        "city_name": "\u5357\u901a",
+        "city_code": "161",
+        "city_center": {
+          "longitude": 120.893709,
+          "latitude": 31.979581
+        }
+      }
+    ],
+    "O": [],
+    "P": [],
+    "Q": [
+      {
+        "city_name": "\u79e6\u7687\u5c9b",
+        "city_code": "148",
+        "city_center": {
+          "longitude": 119.599641,
+          "latitude": 39.93545
+        }
+      },
+      {
+        "city_name": "\u6cc9\u5dde",
+        "city_code": "134",
+        "city_center": {
+          "longitude": 118.67587,
+          "latitude": 24.87389
+        }
+      },
+      {
+        "city_name": "\u6e05\u8fdc",
+        "city_code": "197",
+        "city_center": {
+          "longitude": 113.056151,
+          "latitude": 23.682009
+        }
+      },
+      {
+        "city_name": "\u9752\u5c9b",
+        "city_code": "236",
+        "city_center": {
+          "longitude": 120.38299,
+          "latitude": 36.066229
+        }
+      }
+    ],
+    "R": [],
+    "S": [
+      {
+        "city_name": "\u4e0a\u6d77",
+        "city_code": "289",
+        "city_center": {
+          "longitude": 121.473699,
+          "latitude": 31.230371
+        }
+      },
+      {
+        "city_name": "\u82cf\u5dde",
+        "city_code": "224",
+        "city_center": {
+          "longitude": 120.58319,
+          "latitude": 31.298341
+        }
+      },
+      {
+        "city_name": "\u6df1\u5733",
+        "city_code": "340",
+        "city_center": {
+          "longitude": 114.05956,
+          "latitude": 22.54286
+        }
+      },
+      {
+        "city_name": "\u4e09\u4e9a",
+        "city_code": "121",
+        "city_center": {
+          "longitude": 109.51209,
+          "latitude": 18.252479
+        }
+      },
+      {
+        "city_name": "\u6c88\u9633",
+        "city_code": "58",
+        "city_center": {
+          "longitude": 123.43236,
+          "latitude": 41.805629
+        }
+      },
+      {
+        "city_name": "\u97f6\u5173",
+        "city_code": "137",
+        "city_center": {
+          "longitude": 113.59723,
+          "latitude": 24.810389
+        }
+      },
+      {
+        "city_name": "\u6c55\u5934",
+        "city_code": "303",
+        "city_center": {
+          "longitude": 116.68221,
+          "latitude": 23.353501
+        }
+      },
+      {
+        "city_name": "\u77f3\u5bb6\u5e84",
+        "city_code": "150",
+        "city_center": {
+          "longitude": 114.5143,
+          "latitude": 38.04276
+        }
+      },
+      {
+        "city_name": "\u7ecd\u5174",
+        "city_code": "293",
+        "city_center": {
+          "longitude": 120.580199,
+          "latitude": 30.03033
+        }
+      }
+    ],
+    "T": [
+      {
+        "city_name": "\u5510\u5c71",
+        "city_code": "265",
+        "city_center": {
+          "longitude": 118.180579,
+          "latitude": 39.630481
+        }
+      },
+      {
+        "city_name": "\u5929\u6d25",
+        "city_code": "332",
+        "city_center": {
+          "longitude": 117.199371,
+          "latitude": 39.085099
+        }
+      },
+      {
+        "city_name": "\u6cf0\u5b89",
+        "city_code": "325",
+        "city_center": {
+          "longitude": 117.0884,
+          "latitude": 36.19994
+        }
+      },
+      {
+        "city_name": "\u592a\u539f",
+        "city_code": "176",
+        "city_center": {
+          "longitude": 112.55067,
+          "latitude": 37.870591
+        }
+      },
+      {
+        "city_name": "\u53f0\u5dde",
+        "city_code": "244",
+        "city_center": {
+          "longitude": 121.420559,
+          "latitude": 28.656111
+        }
+      }
+    ],
+    "U": [],
+    "V": [],
+    "W": [
+      {
+        "city_name": "\u6b66\u6c49",
+        "city_code": "218",
+        "city_center": {
+          "longitude": 114.30525,
+          "latitude": 30.59276
+        }
+      },
+      {
+        "city_name": "\u4e4c\u9c81\u6728\u9f50",
+        "city_code": "92",
+        "city_center": {
+          "longitude": 87.61688,
+          "latitude": 43.82663
+        }
+      },
+      {
+        "city_name": "\u65e0\u9521",
+        "city_code": "317",
+        "city_center": {
+          "longitude": 120.31237,
+          "latitude": 31.490989
+        }
+      },
+      {
+        "city_name": "\u6f4d\u574a",
+        "city_code": "287",
+        "city_center": {
+          "longitude": 119.16176,
+          "latitude": 36.706859
+        }
+      },
+      {
+        "city_name": "\u6e29\u5dde",
+        "city_code": "178",
+        "city_center": {
+          "longitude": 120.69939,
+          "latitude": 27.99492
+        }
+      }
+    ],
+    "X": [
+      {
+        "city_name": "\u54b8\u9633",
+        "city_code": "323",
+        "city_center": {
+          "longitude": 108.70929,
+          "latitude": 34.329321
+        }
+      },
+      {
+        "city_name": "\u897f\u5b89",
+        "city_code": "233",
+        "city_center": {
+          "longitude": 108.939839,
+          "latitude": 34.34127
+        }
+      },
+      {
+        "city_name": "\u897f\u5b81",
+        "city_code": "66",
+        "city_center": {
+          "longitude": 101.77782,
+          "latitude": 36.617289
+        }
+      },
+      {
+        "city_name": "\u90a2\u53f0",
+        "city_code": "266",
+        "city_center": {
+          "longitude": 114.50443,
+          "latitude": 37.070549
+        }
+      },
+      {
+        "city_name": "\u65b0\u4e61",
+        "city_code": "152",
+        "city_center": {
+          "longitude": 113.926749,
+          "latitude": 35.303231
+        }
+      },
+      {
+        "city_name": "\u53a6\u95e8",
+        "city_code": "194",
+        "city_center": {
+          "longitude": 118.08948,
+          "latitude": 24.479509
+        }
+      },
+      {
+        "city_name": "\u5f90\u5dde",
+        "city_code": "316",
+        "city_center": {
+          "longitude": 117.28577,
+          "latitude": 34.204401
+        }
+      }
+    ],
+    "Y": [
+      {
+        "city_name": "\u9633\u6cc9",
+        "city_code": "357",
+        "city_center": {
+          "longitude": 113.58047,
+          "latitude": 37.856679
+        }
+      },
+      {
+        "city_name": "\u94f6\u5ddd",
+        "city_code": "360",
+        "city_center": {
+          "longitude": 106.23248,
+          "latitude": 38.48644
+        }
+      },
+      {
+        "city_name": "\u4e91\u6d6e",
+        "city_code": "258",
+        "city_center": {
+          "longitude": 112.044531,
+          "latitude": 22.91525
+        }
+      },
+      {
+        "city_name": "\u626c\u5dde",
+        "city_code": "346",
+        "city_center": {
+          "longitude": 119.41269,
+          "latitude": 32.393579
+        }
+      },
+      {
+        "city_name": "\u70df\u53f0",
+        "city_code": "326",
+        "city_center": {
+          "longitude": 121.44801,
+          "latitude": 37.463529
+        }
+      },
+      {
+        "city_name": "\u5b9c\u5bbe",
+        "city_code": "186",
+        "city_center": {
+          "longitude": 104.6417,
+          "latitude": 28.7513
+        }
+      },
+      {
+        "city_name": "\u76d0\u57ce",
+        "city_code": "223",
+        "city_center": {
+          "longitude": 120.16164,
+          "latitude": 33.349511
+        }
+      }
+    ],
+    "Z": [
+      {
+        "city_name": "\u4e2d\u5c71",
+        "city_code": "187",
+        "city_center": {
+          "longitude": 113.3926,
+          "latitude": 22.51595
+        }
+      },
+      {
+        "city_name": "\u6e5b\u6c5f",
+        "city_code": "198",
+        "city_center": {
+          "longitude": 110.35894,
+          "latitude": 21.27134
+        }
+      },
+      {
+        "city_name": "\u5f20\u5bb6\u53e3",
+        "city_code": "264",
+        "city_center": {
+          "longitude": 114.887549,
+          "latitude": 40.824441
+        }
+      },
+      {
+        "city_name": "\u90d1\u5dde",
+        "city_code": "268",
+        "city_center": {
+          "longitude": 113.624929,
+          "latitude": 34.747251
+        }
+      },
+      {
+        "city_name": "\u73e0\u6d77",
+        "city_code": "140",
+        "city_center": {
+          "longitude": 113.576679,
+          "latitude": 22.27073
+        }
+      },
+      {
+        "city_name": "\u8087\u5e86",
+        "city_code": "338",
+        "city_center": {
+          "longitude": 112.46528,
+          "latitude": 23.0469
+        }
+      },
+      {
+        "city_name": "\u6f33\u5dde",
+        "city_code": "255",
+        "city_center": {
+          "longitude": 117.64725,
+          "latitude": 24.513471
+        }
+      },
+      {
+        "city_name": "\u6dc4\u535a",
+        "city_code": "354",
+        "city_center": {
+          "longitude": 118.0548,
+          "latitude": 36.813101
+        }
+      },
+      {
+        "city_name": "\u9547\u6c5f",
+        "city_code": "160",
+        "city_center": {
+          "longitude": 119.425,
+          "latitude": 32.18959
+        }
+      }
+    ]
+  },
+  "default": {
+    "city_name": "\u5317\u4eac",
+    "city_code": "131",
+    "city_center": {
+      "longitude": 116.407171,
+      "latitude": 39.904689
+    }
+  }
+}
